@@ -80,7 +80,7 @@ You need to install Python, that can be done [here](https://www.python.org)
    py -3 -m pip install -r requirements.txt
    
    # Unix
-   python3.8 -m pip install -r requirements.txt
+   python3.8 -m pip install -r requirements.txt https://youtu.be/DuGt3Wj6T9M
    ```
    
 #### Or this can be done using android with unrooted Termux
