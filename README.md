@@ -50,11 +50,11 @@
   </ol>
 </details>
 
-## About The Project
+## Proje hakkında.
 
 <img src="assets/example.png" alt="Image of product">
 
-It generates and checks discord nitro codes at the same time for maximum efficiency
+Maksimum verimlilik için aynı anda  nitro kodları üretir ve kontrol eder
 
 ### Built With
 
@@ -64,7 +64,7 @@ It generates and checks discord nitro codes at the same time for maximum efficie
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Kopya almak için Sadece bunları izlemeniz yeterli
 
 ### Prerequisites
 You need to install Python, that can be done [here](https://www.python.org)
@@ -94,39 +94,37 @@ python3 main.py
    
 ## Usage
 
-Run the `main.py` file using `py -3 main.py` 
-The code will show you two prompts:
-1. How many codes to generate 
-2. If you want to use a discord webhook, if you dont know how to get a discord webhook url it is located at   
-   ```channel settings » intergrations » webhooks » create webhook```  
-   If you dont want to use a webhook simply leave this blank  
+'py -3 main.py' kullanarak 'main.py' dosyasını çalıştırın
+Kod size iki istem gösterecektir:
+1. Kaç kod üretilecek
+2. Eğer bir discord webhook kullanmak istiyorsanız, nasıl bir discord webhook url'si alacağınızı bilmiyorsanız, şurada bulunur:
+   ```kanal ayarları » entegrasyonlar » web_hook » web_hook oluştur```
+   Bir web_hook kullanmak istemiyorsanız, bunu boş bırakmanız yeterlidir.
 
-The code will start generating and checking after that step
-
+Bu adımdan sonra kod oluşturmaya ve kontrol etmeye başlayacaktır.
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
 See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
 
-## Contributing
+## Katkı
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Katkılar, açık kaynak topluluğunu öğrenmek, ilham vermek ve yaratmak için harika bir yer yapan şeydir. Yaptığınız katkılar **çok takdir edilmektedir**
+1. Projeyi Çatallayın
+2. Özellik Dalınızı oluşturun (git checkout -b feature/AmazingFeature)
+3. Değişikliklerinizi yapın (git commit -m 'Add some AmazingFeature')
+4. Şubeye İtin (git push origin feature/AmazingFeature)
+5. Bir Çekme Talebi Açın
 ## Licence
 
-Copyright © 2021 Drillenissen#4268
+Telif hakkı © 2021 Drillenissen#4268
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+İşbu belgeyle, bu yazılımın ve ilgili belge dosyalarının ("Yazılım") bir kopyasını edinen herhangi bir kişiye, kullanım, kopyalama, değiştirme, birleştirme hakları dahilinde ancak bunlarla sınırlı olmamak üzere, herhangi bir kısıtlama olmaksızın Yazılımla ilgilenme izni verilir. Yazılımın kopyalarını yayınlamak, dağıtmak, alt lisansını vermek ve/veya satmak ve Yazılımın sağlandığı kişilerin aşağıdaki koşullara tabi olarak bunu yapmasına izin vermek:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına veya önemli bölümlerine dahil edilecektir.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+YAZILIM, SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİLİNDE ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ OLMAKSIZIN “OLDUĞU GİBİ” SAĞLANIR. YAZARLAR VE TELİF HAKKI SAHİPLERİ HİÇBİR DURUMDA HERHANGİ BİR DAVA, HAKSIZ FİİL YA DA  SÖZLEŞME V.B, BİR EYLEM, ZARAR VEYA DİĞER SORUMLULUKLARDAN , YAZILIMI KULLANAN SORUMLU OLACAKTIR.
 
 ## Contact
 
