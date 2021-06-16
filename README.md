@@ -27,26 +27,26 @@
 </p>
   
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>İçerisindekinler</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Proje hakkında">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Kurulum">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Başlarken">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Önkoşullar">Prerequisites</a></li>
+        <li><a href="#Kurulum">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#copyright">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Kullanım">Usage</a></li>
+    <li><a href="#Yol Haritası">Roadmap</a></li>
+    <li><a href="#Katkı">Contributing</a></li>
+    <li><a href="#Lisans">License</a></li>
+    <li><a href="#İletişim">Contact</a></li>
   </ol>
 </details>
 
